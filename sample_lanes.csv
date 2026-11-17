@@ -1,0 +1,17 @@
+AI_DAILY_LANE  �  one row per lane per day (lane-level facts),,,,,,,,,,
+"Lane facts, one row per lane per day. Birds_Alive_End = last physical count (SETTINGS) � deaths since then. Mortality_Rate = deaths � birds at start of day.",,,,,,,,,,
+,,,,,,,,,,
+Batch_ID,Date,Age_Days,Lane_ID,Deaths,Culls,Transfers,Note,House_ID,Birds_Alive_End,Mortality_Rate
+A001,2026-09-12,59,L1,0,,,,H1,1502,0.000%
+A001,2026-09-12,59,L2,0,,,,H1,1888,0.000%
+A001,2026-09-12,59,L3,0,,,,H1,1803,0.000%
+A001,2026-09-12,59,L4,0,,,,H1,1696,0.000%
+A001,2026-09-13,60,L1,0,,,,H1,1502,0.000%
+A001,2026-09-13,60,L2,0,,,,H1,1888,0.000%
+A001,2026-09-13,60,L3,0,,,,H1,1803,0.000%
+A001,2026-09-13,60,L4,2,,,,H1,1694,0.118%
+A001,2026-09-14,61,L1,2,,,,H1,1500,0.133%
+A001,2026-09-14,61,L2,0,,,,H1,1888,0.000%
+A001,2026-09-14,61,L3,0,,,,H1,1803,0.000%
+A001,2026-09-14,61,L4,0,,,,H1,1694,0.000%
+A001,2026-09-15,62,L1,0,,,,H1,1500,0.000%
